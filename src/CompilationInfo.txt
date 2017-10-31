@@ -1,0 +1,1 @@
+javac -d ../out com/company/MyClass.java com/food/Fruit.java com/home/MySecondClass.java  com/certification/Parent.java com/other/Child.java Apple.java
