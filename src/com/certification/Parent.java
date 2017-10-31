@@ -2,5 +2,5 @@ package com.certification;
 
 public class Parent {
 
-	protected int x = 10;
+	protected int x = 11;
 }
